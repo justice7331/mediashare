@@ -3,7 +3,7 @@ A ShareX media server made in Go.
 ## 🧳 Requirements
 * Go (latest)
 
-## 📜 Installation
+## 🏗️ Building
 ```
 go build ./src/GoShare
 ```
