@@ -5,10 +5,10 @@ A ShareX media server made in Go.
 
 ## 🏗️ Building
 ```
-go build ./src/GoShare
+go build ./src/mediashare
 ```
 
-## 📘 GoShare Setup
+## 📘 mediashare Setup
 Change the password variable in `main.go` to a password you would like to use, then build. Next create an SSL certificate and name the files `certificate.pem` & `certificate.key`.
 
 ## 📗 ShareX Setup
@@ -18,5 +18,5 @@ Create a custom uploader by going to Destinations -> Custom Uploader Settings...
 
 ## 🕹️ Usage
 ```
-./GoShare
+./mediashare
 ```
