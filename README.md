@@ -1,4 +1,4 @@
-# 🖥️ GoShare
+# 🖥️ mediashare
 A ShareX media server made in Go.
 ## 🧳 Requirements
 * Go (latest)
